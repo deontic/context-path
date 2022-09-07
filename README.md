@@ -1,7 +1,7 @@
 # context-path
 
 used to add folders to the PATH variable through the context menu (only works on Windows right now)
-it serves as a convenient, lightweight (~25 KB) utility to add folders to the PATH variable through the context menu (you don't need to open the System Properties window as you normally would) 
+it serves as a convenient, lightweight (~25 KB) utility to add folders to the PATH variable through the context menu (you don't need to open the System Properties window everytime as you normally would).
 
 
 ## usage
