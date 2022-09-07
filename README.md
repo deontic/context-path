@@ -11,5 +11,5 @@ just download the [executable](https://github.com/deontic/context-path/releases/
 
 right click on the containing folder of the file you want to be able to access through the PATH variable and select "Add Folder to Path"
 
-**note:** you must close *all* terminal instances or find a way to refresh PATH before using the newly added directory 
+**note:** you must close *all* terminal instances or find a way to refresh PATH before using the newly added directory, 
 in the gif above I closed the only open terminal and then opened a new one, after which file.bat was accessible 
