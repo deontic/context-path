@@ -14,5 +14,5 @@ just download the [executable](https://github.com/deontic/context-path/releases/
 
 in the gif above I closed the only open terminal and then opened a new one so it uses updated environment variables
 
-right click on the containing folder of the file you want to be able to access through the PATH variable and select "CP Add Folder to Path"
+right click on the containing folder of the file you want to be able to access through the PATH variable and select `CP Add Folder to Path`
 
