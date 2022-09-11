@@ -1,6 +1,6 @@
 # context-path
 
-### (only Windows supported)
+### (only Windows supported right now)
 it serves as a convenient, lightweight (<20 KB) utility to add folders to the PATH variable through the context menu so you don't need to open the System Properties window everytime as you normally would.
 
 ## installation
