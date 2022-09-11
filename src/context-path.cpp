@@ -68,7 +68,7 @@ int main(int argc, char* argv[]) {
        need to maintain a separate variable to keep track of the buffer size,
            because the value returned by pcbData is unpredictable.*/
 
-    // yeah but 50 K should be enough I don't care if I'm allocating too
+    // yeah but 50 KB should be enough I don't care if I'm allocating too
     // much, I can't be bothered to do all the above and if you can, you
     // should ⬇️⬇️⬇️
     char val[50000];
