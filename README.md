@@ -4,7 +4,7 @@ used to add folders to the PATH variable through the context menu (only works on
 it serves as a convenient, lightweight (<20 KB) utility to add folders to the PATH variable through the context menu (you don't need to open the System Properties window everytime as you normally would).
 
 ## installation
-just download the [executable](https://github.com/deontic/context-path/releases/download/v1.0.0/context-path.exe), right click it, select "Run as Administrator" and it is ready to use 
+just download the [executable](https://github.com/deontic/context-path/releases/download/v2.0.0/context-path.exe), right click it, select "Run as Administrator" and it is ready to use 
 
 ## usage
 <img src="https://user-images.githubusercontent.com/68165727/188911542-7913bff0-6479-4429-b8be-a84154e27b52.gif" width=512>
