@@ -6,7 +6,7 @@ it serves as a convenient, lightweight (<20 KB) utility to add folders to the PA
 ## installation
 just download the [executable](https://github.com/deontic/context-path/releases/download/v2.0.0/context-path.exe), right click it, select "Run as Administrator" and it is ready to use 
 
-**Note:** as usual, you must close *all* terminal instances or find another way to refresh environment variables in your terminal (e.g refreshenv) before using the newly added directory (read more: https://superuser.com/a/107530),  
+**NOTE:** as usual, you must close *all* terminal instances or find another way to refresh environment variables in your terminal (e.g refreshenv) before using the newly added directory (read more: https://superuser.com/a/107530)
 in the gif below I closed the only open terminal and then opened a new one so it uses updated environment variables
 
 
