@@ -1,7 +1,7 @@
 # context-path
 
 ### (only Windows supported)
-it serves as a convenient, lightweight (<20 KB) utility to add folders to the PATH variable through the context menu (you don't need to open the System Properties window everytime as you normally would).
+it serves as a convenient, lightweight (<20 KB) utility to add folders to the PATH variable through the context menu so you don't need to open the System Properties window everytime as you normally would.
 
 ## installation
 just download the [executable](https://github.com/deontic/context-path/releases/download/v2.0.0/context-path.exe), right click it, select "Run as Administrator" and it is ready to use 
